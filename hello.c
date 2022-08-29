@@ -6,6 +6,8 @@ int main(int argc, char **argv) {
 
   printf("Jackson Meyer\n");
   printf("Electrical Engineering\n");
+  printf("Braxton Smith\n");
+  printf("Computer Engineering\n");
 
   return 0;
 }
